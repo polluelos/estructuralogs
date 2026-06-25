@@ -24,3 +24,7 @@ Los campos son:
 Necesitamos analizarlos con los siguientes criterios:
  - Genera un fichero nuevo, con los logs limpios, es decir, manteniendo sólo los que tienen Status=OK.
  - Utiliando este fichero limpio, genera un fichero .csv que contenga dos columnas: Account ID y la suma de sus transacciones.
+ - Genera un .xsl en el que se enseñe de forma gráfica:
+   - La cantidad de cuentas por país (Gráfica de secciones).
+   - La cantidad de transacciones por país (Gráfica de secciones).
+   - Las 10 cuentas que más dinero han ingresado neto.
