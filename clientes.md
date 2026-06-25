@@ -2,7 +2,7 @@
 
 | Client Name      | Account ID | Balance (USD) | Country        |
 |------------------|------------|---------------|----------------|
-| Aurora Vega      | 1001       | 28,450.75     | United States  |
+| urora Vega      | 1001       | 28,450.75     | United States  |
 | Mateo Rossi      | 1002       | 14,320.10     | Italy          |
 | Nia Patel        | 1003       | 52,900.00     | Canada         |
 | Liam Chen        | 1004       | 9,875.60      | Australia      |
